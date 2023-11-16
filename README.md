@@ -51,7 +51,7 @@ Here are some examples of how you can use NewsChatBot to analyze news articles:
 
 ## Contribution
 
-We welcome contributions to NewsChatBot! If you have ideas for improvements or bug fixes, please feel free to open an issue or submit a pull request. We value your input and are committed to making NewsChatBot even better.
+ If you have ideas for improvements or bug fixes, please feel free to open an issue or submit a pull request. 
 
 ## License
 
